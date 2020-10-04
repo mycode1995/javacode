@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c90874b5-c5b5-48c0-b3b1-2a5d547740de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../apache-maven-3.3.9/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.3.9\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iMJovj9JjJ5XsKazh7HGCsLojO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/lkjlj" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c90874b5-c5b5-48c0-b3b1-2a5d547740de" name="Default Changelist" comment="" />
+      <created>1601711705320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601711705320</updated>
+      <workItem from="1601711709144" duration="198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="996" y="285" key="FileChooserDialogImpl" timestamp="1601711892254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="996" y="285" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601711892254" />
+    <state x="1021" y="445" key="svn.upgradeDialog" timestamp="1601711901514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1021" y="445" key="svn.upgradeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601711901514" />
+    <state x="981" y="408" key="svn4idea.checkout.options" timestamp="1601711900291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="981" y="408" key="svn4idea.checkout.options/0.0.1920.1040@0.0.1920.1040" timestamp="1601711900291" />
+  </component>
+</project>
