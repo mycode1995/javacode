@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2a6f980-0851-4ce3-a876-9ea9678d287b" name="Default Changelist" comment="1111" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.3.9/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.3.9\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iMIKMgPGrcmn6VwrnW0G7jgY20" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2a6f980-0851-4ce3-a876-9ea9678d287b" name="Default Changelist" comment="" />
+      <created>1601710968284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601710968284</updated>
+      <workItem from="1601710971530" duration="3558000" />
+      <workItem from="1601779274026" duration="1646000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1601711274975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601711274975</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1601711411361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601711411361</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1601711846022</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601711846022</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1111">
+      <created>1601779450310</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601779450310</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1111">
+      <created>1601780278263</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601780278263</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1111" />
+    <option name="LAST_COMMIT_MESSAGE" value="1111" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="103" key="#Deployment" timestamp="1601780029837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="103" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1601780029837" />
+    <state x="598" y="68" key="#Project_Structure" timestamp="1601711321917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="68" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1601711321917" />
+    <state x="718" y="80" key="CommitChangelistDialog2" timestamp="1601711843855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="80" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601711843855" />
+    <state x="898" y="234" key="FileChooserDialogImpl" timestamp="1601779327767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="898" y="234" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601779327767" />
+    <state x="619" y="138" key="SettingsEditor" timestamp="1601714748679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="619" y="138" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601714748679" />
+    <state x="927" y="313" key="VCS.EditChangelistDialog" timestamp="1601780235706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="927" y="313" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601780235706" />
+    <state x="689" y="177" key="Vcs.Push.Dialog.v2" timestamp="1601780401712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="177" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601780401712" />
+    <state x="775" y="358" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogintegrate" timestamp="1601711493302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="358" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogintegrate/0.0.1920.1040@0.0.1920.1040" timestamp="1601711493302" />
+    <state x="931" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601714695655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="931" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601714695655" />
+    <state x="864" y="390" key="svn.passwordDialog" timestamp="1601714793250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="864" y="390" key="svn.passwordDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601714793250" />
+    <state x="922" y="177" width="647" height="634" key="svn.repositoryBrowser" timestamp="1601711215386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="177" width="647" height="634" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1601711215386" />
+    <state x="893" y="395" key="svn.sslCredentialsDialog" timestamp="1601711087712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="893" y="395" key="svn.sslCredentialsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601711087712" />
+    <state x="944" y="382" key="svn.sslDialog" timestamp="1601714779373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="944" y="382" key="svn.sslDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601714779373" />
+    <state x="923" y="394" key="svn.upgradeDialog" timestamp="1601714769934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="923" y="394" key="svn.upgradeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601714769934" />
+    <state x="883" y="347" key="svn4idea.checkout.options" timestamp="1601714768619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="883" y="347" key="svn4idea.checkout.options/0.0.1920.1040@0.0.1920.1040" timestamp="1601714768619" />
+  </component>
+</project>
